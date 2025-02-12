@@ -28,7 +28,8 @@ const quotes = [
     { quote: "Work hard in silence, let success make the noise.", author: "Frank Ocean" },
     { quote: "Kesuksesan adalah perjalanan, bukan tujuan.", author: "Ben Sweetland" },
     { quote: "Jangan menunggu momen yang sempurna, ambil momen dan buatlah sempurna.", author: "Zoey Sayward" },
-    { quote: "Sometimes later becomes never. Do it now.", author: "Anonim" }
+    { quote: "Sometimes later becomes never. Do it now.", author: "Anonim" },
+    { quote: "Jika kamu gagal berarti kamu sudah melakukan sesuatu", author: "Danka"}
   ];
 
 const qoutes_box = document.getElementById('quote')
